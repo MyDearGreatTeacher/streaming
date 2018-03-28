@@ -4,7 +4,7 @@
 
 lab 1:使用VLC開啟網路串流
 
-http://www.onirilal.com/videos/assembly_line.mp4
+http://www.onirikal.com/videos/assembly_line.mp4
 
 lab 2:使用VLC開啟網路串流並轉檔
 
@@ -17,7 +17,11 @@ lab 2:使用VLC開啟網路串流並轉檔
 [2]15/30/60fps
 
 
+lab 3:使用VLC播放本地端影片開啟網路串流播放
+
 # FFmpeg
+
+示範影片
 
 
 https://www.mobile01.com/topicdetail.php?f=510&t=3734550
