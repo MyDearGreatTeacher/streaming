@@ -25,6 +25,14 @@ lab 4:使用VLC播放本地端影片開啟網路串流播放
 
 # FFmpeg
 
+下載: https://ffmpeg.zeranoe.com/builds/
+
+Version:
+
+Architecture: Windows-64bit
+
+Linkin
+
 示範影片
 
 
