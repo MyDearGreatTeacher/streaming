@@ -21,7 +21,13 @@ lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++�
 
 直播平台: https://www.twitch.tv/broadcast
 
+作業2:名人訪問直播==>系主任
 
+作業3:搞笑直播
+
+作業4:拍賣直播
+
+作業5:教學直播
 
 # 雲端streaming串流伺服器
 
