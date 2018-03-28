@@ -314,7 +314,7 @@ ffmpeg -f GDIgrab -re -i desktop -vcodec h264 -b:v 1M -b:a 256k -s 720x576 -f mp
 
 參數說明::
 
-# lab 4:使用ffmpeg錄製桌面並轉成udp直播串流
+# lab 5:使用ffmpeg錄製桌面並轉成udp直播串流
 
 ffmpeg -f GDIgrab -re -i desktop -vcodec h264 -b:v 1M -b:a 256k -s 720x576 -f h264 udp://172.20.155.255:5555
 
