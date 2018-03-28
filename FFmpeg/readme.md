@@ -23,7 +23,7 @@ ffplay.exe:播放影片
 ffprobe.exe:
 
 
-在cmd輸入ffmpeg 
+## 在cmd輸入ffmpeg 
 
 ==>
 
@@ -65,7 +65,7 @@ usage: ffmpeg [options] [[infile options] -i infile]... {[outfile options] outfi
 
 Use -h to get full help or, even better, run 'man ffmpeg'
 
-在cmd輸入ffmpeg -h
+## 在cmd輸入ffmpeg -h
 
 ==>
 
