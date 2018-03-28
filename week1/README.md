@@ -29,6 +29,7 @@ https://en.wikipedia.org/wiki/FFmpeg
 https://www.ffmpeg.org/download.html#build-windows
 
 
+$ ffmpeg -i input.mp4 output.avi
 
 
 簡介
