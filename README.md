@@ -13,6 +13,16 @@ lab3:使用VLC播放串流影片+使用VLC觀看影片
 
 lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
 
+# streaming 直播串流實戰作業:
+
+作業1:遊戲直播
+
+直播軟體: XSplit 
+
+直播平台: https://www.twitch.tv/broadcast
+
+
+
 # 雲端streaming串流伺服器
 
 YouTube Live
