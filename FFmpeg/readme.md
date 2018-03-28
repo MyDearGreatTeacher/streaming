@@ -2,7 +2,7 @@
 # lab 1:安裝ffmpeg
 
 
-# lab 2:使用ffmpeg
+# lab 2:認識ffmpeg
 
 https://lnpcd.blogspot.tw/2012/09/ffmpeg.html
 
@@ -11,14 +11,11 @@ https://www.mobile01.com/topicdetail.php?f=510&t=3734550
 在ffmpeg/bin目錄底下有三個.exe檔案
 
 
-
 ffmpeg:
 
 ffplay.exe:播放影片
 
 ffprobe.exe:
-
-# lab 2:使用ffmpeg
 
 
 在cmd輸入ffmpeg 
@@ -296,16 +293,18 @@ Subtitle options:
 -spre preset        set the subtitle options to the indicated preset
 
 
-# lab 3:
+# lab 2:使用ffplay播放本地端影片
 
-使用VLC開啟網路串流並轉檔
+ffplay 本地端影片
+
+# lab 2:使用ffmpeg轉檔
+
+
+# lab 3:使用ffmpeg直播
+
+
 
 設定參數說明::
 
 參數設定:
 
-[1]1920*1080 1Mbps~3Mbps
-
-[2]15/30/60fps
-
-# lab 4:使用VLC播放本地端影片開啟網路串流播放
