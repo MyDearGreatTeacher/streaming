@@ -1,11 +1,15 @@
 # Week1:使用obs直播facebook+YOutube
 
 臉書直播: https://developers.facebook.com/docs/videos/live-video?locale=zh_TW
-      VLC 來播放 RTMP 直播影片
-      播放器用各种都行，VLC，PotPlayer，ffplay
+
+VLC 來播放 RTMP 直播影片
+
+播放器用各种都行，VLC，PotPlayer，ffplay
+
 使用Video.js 在不同裝置上播放HLS (HTTP Live Streaming) 串流影片
 
 HTML5视频播放器Video.Js的使用
+
 http://sweeteason.pixnet.net/blog/post/42655502-%E4%BD%BF%E7%94%A8-video.js-%E5%9C%A8%E4%B8%8D%E5%90%8C%E8%A3%9D%E7%BD%AE%E4%B8%8A%E6%92%AD%E6%94%BE-hls-%28http-live-stre
 
 Android端最好的流媒体播放器ijkplayer
@@ -20,9 +24,9 @@ Android端最好的流媒体播放器ijkplayer
   https://github.com/arut/nginx-rtmp-module
       http://blakew88.blogspot.tw/2017/04/rtmp13-nginx-rtmp.html
   
-  Nginx ,Nginx-Rtmp-Module & Ffmpeg Build Live Video Streaming Server
-     https://hackernoon.com/nginx-nginx-rtmp-module-ffmpeg-build-live-video-   
-     streaming-server-88a52f7bab6f
+Nginx ,Nginx-Rtmp-Module & Ffmpeg Build Live Video Streaming Server
+
+https://hackernoon.com/nginx-nginx-rtmp-module-ffmpeg-build-live-video-streaming-server-88a52f7bab6f
 
 # Week4: 樹莓派架設 RTMP 串流（Streaming）伺服器，傳送即時攝影機影像
   
@@ -47,7 +51,7 @@ http://blog.51yip.com/server/1806.html
 
 # Week6: 使用 Docker 快速架設 RTMP 串流平台
 
-https://moiamond.github.io/post/%E4%BD%BF%E7%94%A8-Docker-%E5%BF%AB%E9%80%9F%E6%9E%B6%E8%A8%AD-RTMP-%E4%B8%B2%E6%B5%81%E5%B9%B3%E5%8F%B0/
+https://moiamond.github.io/post/%E4%BD%BF%E7%94%A8-Docker-%E5%BF%AB%E9%80%9F%E6%9E%B6%E8%A8%AD-RTMP%E4%B8%B2%E6%B5%81%E5%B9%B3%E5%8F%B0/
 
 https://github.com/tiangolo/nginx-rtmp-docker
 
