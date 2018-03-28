@@ -1,4 +1,4 @@
-# streaming串流伺服器
+# streaming 直播串流實戰
 
 lab1:安裝與建置VLC串流伺服器
 
@@ -12,6 +12,17 @@ lab2:使用VLC播放已錄製的影片+使用VLC觀看影片
 lab3:使用VLC播放串流影片+使用VLC觀看影片
 
 lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
+
+# 雲端streaming串流伺服器
+
+YouTube Live
+
+https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig
+
+
+# streaming串流伺服器
+
+
 
 
 # PC直播APP
