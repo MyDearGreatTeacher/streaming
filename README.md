@@ -1,22 +1,32 @@
-# streaming
+# streaming串流伺服器
 
-# lab1:安裝與建置VLC串流伺服器
+lab1:安裝與建置VLC串流伺服器
 
 https://zh.wikipedia.org/wiki/VLC多媒體播放器
 
 https://www.videolan.org/vlc/index.zh-TW.html
 
 
-# lab2:使用VLC播放已錄製的影片+使用VLC觀看影片
+lab2:使用VLC播放已錄製的影片+使用VLC觀看影片
 
-# lab3:使用VLC播放串流影片+使用VLC觀看影片
+lab3:使用VLC播放串流影片+使用VLC觀看影片
 
-# lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
+lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
 
 
-# Livestream
+# PC直播APP
+
+obs
+
+
+# IOS直播APP
+
+Livestream(IOS)
 
 https://itunes.apple.com/us/app/livestream/id493086499?mt=8
+
+# Android 直播APP
+
 
 
 
