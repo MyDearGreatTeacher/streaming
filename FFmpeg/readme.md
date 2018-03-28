@@ -1,6 +1,11 @@
 
 # lab 1:安裝ffmpeg
 
+下載ffmpeg::https://www.ffmpeg.org/download.html#build-windows
+
+點選Windows Packages Windows Builds即可下載
+
+安裝如同
 
 # lab 2:認識ffmpeg
 
@@ -297,14 +302,25 @@ Subtitle options:
 
 ffplay 本地端影片
 
-# lab 2:使用ffmpeg轉檔
+# lab 3:使用ffmpeg轉檔
+
+ffmpeg -re -i Wildlife.wmv -vcodec h264 -b:v 1M -b:a 256k -s 720x576  3.mp4
+
+參數說明::
+
+# lab 4:使用ffmpeg錄製桌面轉並存成ts檔
+
+ffmpeg -f GDIgrab -re -i desktop -vcodec h264 -b:v 1M -b:a 256k -s 720x576 -f mpegts 1.ts
+
+參數說明::
+
+# lab 4:使用ffmpeg錄製桌面並轉成udp直播串流
+
+ffmpeg -f GDIgrab -re -i desktop -vcodec h264 -b:v 1M -b:a 256k -s 720x576 -f h264 udp://172.20.155.255:5555
+
+參數說明::
 
 
-# lab 3:使用ffmpeg直播
-
-
-
-設定參數說明::
 
 參數設定:
 
