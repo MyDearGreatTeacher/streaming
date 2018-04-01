@@ -1,5 +1,7 @@
 # streaming 直播串流實戰
 
+## week1
+```
 lab1:安裝與建置VLC串流伺服器
 
 https://zh.wikipedia.org/wiki/VLC多媒體播放器
@@ -18,7 +20,8 @@ lab:Android手機->facebook->VLC
 直播軟體: Live in Five  YouTube Gaming, Omlet Arcade, Mobcrush
 http://perfectshow.pixnet.net/blog/post/207601882-android%E6%89%8B%E6%A9%9F%E7%B6%B2%E8%B7%AF%E7%9B%B4%E6%92%AD%E5%88%B0fb%E8%88%87youtube
 
-
+```
+## week2:手機直播
 
 lab:iOS手機->facebook->VLC
 
@@ -28,10 +31,20 @@ https://home.gamer.com.tw/creationDetail.php?sn=3567494
 
 https://www.mobile01.com/topicdetail.php?f=383&t=5258533
 
+# PC直播:obs==>Youtube/Facebook
 
+
+## IOS直播==>Youtube/Facebook
+
+Livestream(IOS)
+
+https://itunes.apple.com/us/app/livestream/id493086499?mt=8
+
+## Android 直播==>Youtube/Facebook
 
 # streaming 直播串流實戰作業:
 
+```
 作業1:遊戲直播
 
 直播軟體: XSplit 
@@ -45,6 +58,7 @@ https://www.mobile01.com/topicdetail.php?f=383&t=5258533
 作業4:拍賣直播
 
 作業5:教學直播
+```
 
 # 雲端streaming串流伺服器
 
@@ -54,23 +68,6 @@ https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig
 
 
 # streaming串流伺服器
-
-
-
-
-# PC直播APP
-
-obs
-
-
-# IOS直播APP
-
-Livestream(IOS)
-
-https://itunes.apple.com/us/app/livestream/id493086499?mt=8
-
-# Android 直播APP
-
 
 
 
