@@ -3,6 +3,7 @@
 #### 直播類型:內容當道
 ```
 社交直播:A17
+互動類直播：娛樂類互動，如YY等。
 線上抓哇哇機:
 機智問答直播:
 HQ - Live Trivia Game Show
@@ -10,6 +11,10 @@ HQ - Live Trivia Game Show
 諮詢直播:
 教學直播:
 商務直播:
+金融類直播：金融直播可應用于即時解盤，線上專家講座，專家線上直播技術分析、指導投資者等使用場景。
+大型賽事，演唱會類直播：可應用於大型演唱會，音樂會，遊戲，體育賽事等類直播場景。
+會議類直播：大型會議直播。
+
 ```
 ## week1:VLC串流伺服器與ffmpeg
 ```
@@ -21,6 +26,20 @@ lab3:使用VLC播放串流影片+使用VLC觀看影片
 lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
 lab5:使用ffmpeg播放直播
 lab6:ffmpeg錄影並直播到串流伺服器
+
+### nginx rtmp直播伺服器
+(1)nginx rtmp@linux
+nginx-rtmp-module，組合在一起即可以搭建一個功能相對比較完善並可支援RTMP和HLS的流媒體伺服器。
+
+(2)用ffmpeg產生一個模擬直播源，向rtmp伺服器推送
+ffmpeg -re -i test.flv -f flv rtmp://192.168.242.172/myapp/test1
+ffmpeg -re -i Caminandes.mp4 -vprofile baseline -vcodec copy -acodec copy -strict -2 -f flv rtmp://192.168.242.172/myapp/test2
+
+(3)使用ffplayer或者vlc播放rtmp流
+ffplay rtmp://192.168.242.172/myapp/test1
+
+### 實況聊天室的統一大業：使用 MULTICHAT
+http://upsetlink.logdown.com/bullshit/425985
 ```
 ## week2:手機直播與PC直播
 
@@ -75,6 +94,38 @@ https://itunes.apple.com/us/app/livestream/id493086499?mt=8
 ### Android 直播==>Youtube/Facebook
 
 ## week3: 期中報告
+### Nginx直播實務
+```
+[1]Nginx@windows
+在Windows下搭建基于nginx的视频直播和点播系统
+https://my.oschina.net/gaga/blog/478480
+
+[2]Nginx@linux
+基於Nginx搭建RTMP/HLS視頻直播伺服器:
+https://www.jianshu.com/p/0296a7be7928
+
+Nginx的擴展rtmp模組
+github：https://github.com/arut/nginx-rtmp-module
+
+```
+### 多平台同步直播實務
+```
+使用Nginx 
+http://upsetlink.logdown.com/bullshit/425541
+https://bearteach.com/bearman/14
+```
+
+### 雲端Nginx直播實務
+```
+Amazon
+http://blakew88.blogspot.tw/2017/04/rtmp13-nginx-rtmp.html
+http://blakew88.blogspot.tw/2017/04/rtmp23-nginx-hls.html
+
+Azure
+使用 MICROSOFT AZURE MEDIA SERVICE 建立直播服務
+http://blakew88.blogspot.tw/2017/04/microsoft-azure-media-service.html
+```
+
 
 ```
 遊戲直播
@@ -83,11 +134,12 @@ https://itunes.apple.com/us/app/livestream/id493086499?mt=8
 ```
 ## week4:進階直播專題(HTTP/RTSP)
 
-### Nginx直播實務
-
-### 多平台同步直播實務
-
-https://bearteach.com/bearman/14
+###  WebRTC Live Streaming直播實務
+```
+Low Latency WebRTC Live Streaming - Open Source Ant Media Server
+https://antmedia.io/
+https://github.com/ant-media/Ant-Media-Server
+```
 
 ### 攝影機+重裝備播(影像擷取卡+ffmpeg)
 
