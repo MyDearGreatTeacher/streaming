@@ -34,6 +34,8 @@ lab6:ffmpeg錄影並直播到串流伺服器
 (2)活動
 (3)行動裝置
 (4)網路攝影機
+
+Youtube影片設置浮水印:https://bearteach.com/bearman/537
 ```
 ```
 PC直播軟體:belive | Ecamm live | OBS Studio
@@ -64,35 +66,41 @@ https://www.avermedia.com/tw/tv_more/product/streaming_capture/live_in_five
 lab:iOS手機BeLive.tv->facebook->VLC
 https://itunes.apple.com/us/app/belive-tv/id1139884068?mt=8```
 ```
-## IOS直播==>Youtube/Facebook
+### IOS直播==>Youtube/Facebook
 ```
 Livestream(IOS)
 
 https://itunes.apple.com/us/app/livestream/id493086499?mt=8
 ```
-## Android 直播==>Youtube/Facebook
+### Android 直播==>Youtube/Facebook
 
 ## week3: 期中報告
+
 ```
-作業1:遊戲直播
+遊戲直播
 直播軟體: XSplit 
 直播平台: https://www.twitch.tv/broadcast
 ```
-## week4:三軸穩定器的使用{不教單眼|只用手機}
+## week4:進階直播專題(HTTP/RTSP)
 
-### week5:戶外直播實戰
+### Nginx直播實務
 
-### week6: 期末報告 streaming 直播串流實戰作業:
+### 多平台同步直播實務
+
+https://bearteach.com/bearman/14
+
+### 攝影機+重裝備播(影像擷取卡+ffmpeg)
+
+## week5:戶外直播實戰
+
+### 三軸穩定器的使用{不教單眼|只用手機}
+
+## week6: 期末報告 streaming 直播串流實戰作業:
 ```
-作業1:遊戲直播
-直播軟體: XSplit 
-直播平台: https://www.twitch.tv/broadcast
-
 作業2:名人訪問直播==>系主任
 作業3:搞笑直播
 作業4:拍賣直播
 作業5:教學直播
-
 ```
 
 
@@ -190,6 +198,19 @@ YouTube Live: https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig
 
 # streaming串流伺服器
 
+### nginx rtmp直播伺服器
+```
+(1)nginx rtmp@linux
+nginx-rtmp-module，組合在一起即可以搭建一個功能相對比較完善並可支援RTMP和HLS的流媒體伺服器。
+
+(2)用ffmpeg產生一個模擬直播源，向rtmp伺服器推送
+ffmpeg -re -i test.flv -f flv rtmp://192.168.242.172/myapp/test1
+ffmpeg -re -i Caminandes.mp4 -vprofile baseline -vcodec copy -acodec copy -strict -2 -f flv rtmp://192.168.242.172/myapp/test2
+
+(3)使用ffplayer或者vlc播放rtmp流
+ffplay rtmp://192.168.242.172/myapp/test1
+
+```
 # Top 19 Free Movie Streaming Apps for iPad
 
 https://www.iskysoft.com/mobile-tips/free-movie-streaming-apps-for-ipad.html
