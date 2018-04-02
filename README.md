@@ -16,6 +16,15 @@ HQ - Live Trivia Game Show
 會議類直播：大型會議直播。
 
 ```
+
+## 直播劇本
+
+```
+好劇本讓你的影片打遍天下無敵手，從《艾倫脫口秀》看劇本架構
+https://www.inside.com.tw/2017/07/04/lesson-learned-from-ellen-show
+
+http://bbs.tianya.cn/post-384-37609-1.shtml
+```
 ## week1:VLC串流伺服器與ffmpeg
 ```
 lab1:安裝與建置VLC串流伺服器
