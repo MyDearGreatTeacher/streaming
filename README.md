@@ -104,6 +104,8 @@ https://my.oschina.net/gaga/blog/478480
 基於Nginx搭建RTMP/HLS視頻直播伺服器:
 https://www.jianshu.com/p/0296a7be7928
 
+http://gitbook.cn/books/595754c2a13db23ff231ec7c/index.html
+
 Nginx的擴展rtmp模組
 github：https://github.com/arut/nginx-rtmp-module
 
@@ -134,6 +136,11 @@ http://blakew88.blogspot.tw/2017/04/microsoft-azure-media-service.html
 ```
 ## week4:進階直播專題(HTTP/RTSP)
 
+###  Red5 
+```
+GitHub:https://github.com/Red5/red5-server 
+http://gitbook.cn/books/595754c2a13db23ff231ec7c/index.html
+```
 ###  WebRTC Live Streaming直播實務
 ```
 Low Latency WebRTC Live Streaming - Open Source Ant Media Server
