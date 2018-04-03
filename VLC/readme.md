@@ -39,6 +39,8 @@ sudo apt-get install vlc
 Windwos:連結到官方網站，點選「Instaler for 64bit version」，下載64位元的版本。
 直接點選「下載 VLC」，可以下載32位元的版本。
 ```
+
+```
 啟動後，請點選右上方的「媒體」選單，然後，再點選「串流(S)」項目
 
 跳出「選擇檔案」的視窗，請點選「加入」按鈕來選擇你要在串流播放出去的檔案
@@ -58,7 +60,9 @@ Windwos:連結到官方網站，點選「Instaler for 64bit version」，下載6
 接下來，只要點選下方的「串流」按鈕就會開始播放了哩
 
 ```
+
 ### 使用 VLC 架設串流伺服器
+
 ```
 Fork from http://albert-oma.blogspot.tw/2014/01/vlc.html
 
