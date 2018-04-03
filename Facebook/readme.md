@@ -3,6 +3,9 @@
 ```
 如何使用直播串流軟體在 Facebook 進行直播？
 https://www.facebook.com/help/587160588142067
+
+如何在 Facebook 進行現場直播？
+https://www.facebook.com/help/1636872026560015?helpref=faq_content
 ```
 ### 桌上型播放軟體
 ```
