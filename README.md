@@ -33,6 +33,8 @@ lab1:安裝與建置VLC串流伺服器
 lab2:使用VLC播放已錄製的影片+使用VLC觀看影片
 lab3:使用VLC播放串流影片+使用VLC觀看影片
 lab4:使用obs播放串流影片到VLC串流伺服器++使用VLC觀看影片++使用手機觀看影片
+```
+```
 lab5:使用ffmpeg播放直播
 lab6:ffmpeg錄影並直播到串流伺服器
 
@@ -58,10 +60,7 @@ http://upsetlink.logdown.com/bullshit/425985
 ```
 建立Youtube直播
 您可以透過下列 4 種方式中的任一種來建立 YouTube 直播。
-(1)立即直播
-(2)活動
-(3)行動裝置
-(4)網路攝影機
+(1)立即直播  (2)活動  (3)行動裝置  (4)網路攝影機
 
 Youtube影片設置浮水印:https://bearteach.com/bearman/537
 ```
