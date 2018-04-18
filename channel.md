@@ -1,5 +1,5 @@
 
-# [大大龍的Youtube頻道] https://www.youtube.com/channel/UCmscyAAiv5Js3D6NsxGZgHQ
+# [大大龍的Youtube頻道](https://www.youtube.com/channel/UCmscyAAiv5Js3D6NsxGZgHQ)
 
 [龍大大的黒膠藏](https://www.youtube.com/watch?v=3O80qbh9TA8)
 
