@@ -20,6 +20,7 @@
 
 [劉有朋的Youtube頻道](https://gaming.youtube.com/channel/UCvxofOkQbeWdFD7kf7uamEg/live)
 
+[蔡杰利的Youtube頻道](https://www.youtube.com/channel/UCxY5ItGeaYlhuCnr9Hequ0A/live)
 
 [王柏森的twitch頻道](https://www.twitch.tv/sd134679ds)
 
