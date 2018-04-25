@@ -19,6 +19,11 @@
 [林昱賢的twitch頻道](https://www.twitch.tv/surandaya1998)
 
 [劉有朋的Youtube頻道](https://gaming.youtube.com/channel/UCvxofOkQbeWdFD7kf7uamEg/live)
+
+
+[王柏森的twitch頻道](https://www.twitch.tv/sd134679ds)
+
+
 #### 直播類型:內容當道
 ```
 社交直播:A17
