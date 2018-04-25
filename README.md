@@ -1,9 +1,14 @@
 # streaming 直播串流實戰
 
+# 龍大大頻道
 [facebook頻道](https://www.facebook.com/我的第一堂Linux-1798366720457828)
 曾正好:myfirsthackingclub
 
 [Youtube頻道](https://www.youtube.com/channel/UCAuO5LKUOWhjfDqMVvFVtfA)
+
+# 學生頻道
+
+[吳威良的facebook頻道](https://www.facebook.com/profile.php?id=100001304027556)
 
 
 #### 直播類型:內容當道
