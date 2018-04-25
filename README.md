@@ -7,6 +7,10 @@
 [Youtube頻道](https://www.youtube.com/channel/UCAuO5LKUOWhjfDqMVvFVtfA)
 
 # 學生頻道
+[劉彥佑的facebook頻道](https://goo.gl/NDK5qi)
+
+[楊智傑的facebook頻道](https://goo.gl/VrBL8Y)
+
 
 [吳威良的facebook頻道](https://www.facebook.com/profile.php?id=100001304027556)
 
@@ -51,6 +55,10 @@
 [沈旻宏的Youtube頻道](https://bit.ly/2vJcW6z)
 
 [沈旻宏的facebook頻道](https://bit.ly/2JnRO2M)
+
+[蔡政晏的twitch頻道](https://www.twitch.tv/n25062506)
+
+[蔡政晏的Youtube頻道](https://www.youtube.com/channel/UCP5dkAa2CUauxDK6kiQwEIg)
 
 
 
