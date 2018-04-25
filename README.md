@@ -10,6 +10,7 @@
 
 [吳威良的facebook頻道](https://www.facebook.com/profile.php?id=100001304027556)
 
+[吳威良的Youtube頻道](https://www.youtube.com/channel/UCGD9-uuK-kPSBU784l1jLbQ?view_as=subscriber)
 
 #### 直播類型:內容當道
 ```
