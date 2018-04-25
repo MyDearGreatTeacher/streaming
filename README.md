@@ -3,7 +3,7 @@
 [facebook頻道](https://www.facebook.com/我的第一堂Linux-1798366720457828)
 曾正好:myfirsthackingclub
 
-[Youtube頻道](https://youtu.be/V8qGBgjsLpE)
+[Youtube頻道](https://www.youtube.com/channel/UCAuO5LKUOWhjfDqMVvFVtfA)
 
 
 #### 直播類型:內容當道
