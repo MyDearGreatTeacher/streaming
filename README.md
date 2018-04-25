@@ -12,6 +12,8 @@
 
 [吳威良的Youtube頻道](https://www.youtube.com/channel/UCGD9-uuK-kPSBU784l1jLbQ?view_as=subscriber)
 
+[邱子豪的facebook頻道](https://www.facebook.com/profile.php?id=100008220792793)
+
 #### 直播類型:內容當道
 ```
 社交直播:A17
