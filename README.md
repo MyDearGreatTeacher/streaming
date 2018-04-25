@@ -14,23 +14,44 @@
 
 [邱子豪的facebook頻道](https://www.facebook.com/profile.php?id=100008220792793)
 
+[邱子豪的twitch頻道](https://www.twitch.tv/asdzxc445512)
+
 [馬崇文的facebook頻道]https://www.facebook.com/profile.php?id=100000524329004
 
 [林昱賢的twitch頻道](https://www.twitch.tv/surandaya1998)
 
+[林昱賢facebook頻道](https://goo.gl/nZmU1V)
+
 [劉有朋的Youtube頻道](https://gaming.youtube.com/channel/UCvxofOkQbeWdFD7kf7uamEg/live)
 
+[劉有朋的facebook頻道](https://goo.gl/tCVjpb)
+
 [蔡杰利的Youtube頻道](https://www.youtube.com/channel/UCxY5ItGeaYlhuCnr9Hequ0A/live)
-[蔡杰利的頻道](https://www.facebook.com/profile.php?id=100025546623623)
+
+[蔡杰利的facebook頻道](https://www.facebook.com/profile.php?id=100025546623623)
+
+[蔡杰利的twitch頻道](https://www.twitch.tv/4050e007)
+
 [王柏森的twitch頻道](https://www.twitch.tv/sd134679ds)
 
+[王柏森的facebook頻道](https://www.facebook.com/100013050099533/videos/423172984794368/?id=100013050099533)
+
 [葉冠霆的twitch頻道](https://www.twitch.tv/wing4978)
+
+[葉冠霆的facebook頻道](https://goo.gl/H9VZ2g)
 
 [顏定邦的Youtube頻道](https://www.youtube.com/watch?v=GYFvX3wjSuY)
 
 [吳昌翰的Youtube頻道](https://gaming.youtube.com/channel/UCCk2A63g1q7S-JLuQUnuOhA/live)
 
 [吳昌翰的facebook頻道](https://www.facebook.com/profile.php?id=100025579860150)
+
+[吳昌翰的twitch頻道](https://www.twitch.tv/top5654028)
+
+[沈旻宏的Youtube頻道](https://bit.ly/2vJcW6z)
+
+[沈旻宏的facebook頻道](https://bit.ly/2JnRO2M)
+
 
 
 
