@@ -14,6 +14,7 @@
 
 [邱子豪的facebook頻道](https://www.facebook.com/profile.php?id=100008220792793)
 
+[林昱賢的twitch頻道](https://www.twitch.tv/surandaya1998)
 #### 直播類型:內容當道
 ```
 社交直播:A17
