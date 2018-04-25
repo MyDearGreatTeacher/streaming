@@ -21,8 +21,19 @@
 [劉有朋的Youtube頻道](https://gaming.youtube.com/channel/UCvxofOkQbeWdFD7kf7uamEg/live)
 
 [蔡杰利的Youtube頻道](https://www.youtube.com/channel/UCxY5ItGeaYlhuCnr9Hequ0A/live)
-
+[蔡杰利的頻道](https://www.facebook.com/profile.php?id=100025546623623)
 [王柏森的twitch頻道](https://www.twitch.tv/sd134679ds)
+
+[葉冠霆的twitch頻道](https://www.twitch.tv/wing4978)
+
+[顏定邦的Youtube頻道](https://www.youtube.com/watch?v=GYFvX3wjSuY)
+
+[吳昌翰的Youtube頻道](https://gaming.youtube.com/channel/UCCk2A63g1q7S-JLuQUnuOhA/live)
+
+[吳昌翰的facebook頻道](https://www.facebook.com/profile.php?id=100025579860150)
+
+
+
 
 
 #### 直播類型:內容當道
